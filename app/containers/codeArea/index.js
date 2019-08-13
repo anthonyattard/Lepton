@@ -18,7 +18,7 @@ const conf = remote.getGlobal('conf')
 if (conf.get('theme') === 'dark') {
   require('../../utilities/vendor/highlightJS/styles/atom-one-dark.css')
 } else {
-  require('../../utilities/vendor/highlightJS/styles/github-gist.css')
+  require('../../utilities/vendor/highlightJS/styles/github-gist-new.css')
 }
 
 hljsDefineSolidity(HighlightJS) // register solidity to hightlight.js
