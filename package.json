@@ -1,5 +1,5 @@
 {
-  "name": "Lepton",
+  "name": "lepton",
   "version": "1.8.1",
   "description": "Democratizing Code Snippets Management (macOS/Win/Linux)",
   "productName": "Lepton",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hackjutsu/Lepton.git"
+    "url": "git+https://github.com/hackjutsu/Lepton.git"
   },
   "keywords": [
     "gist",
@@ -144,5 +144,12 @@
         "github"
       ]
     }
+  },
+  "bugs": {
+    "url": "https://github.com/hackjutsu/Lepton/issues"
+  },
+  "homepage": "https://github.com/hackjutsu/Lepton#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
